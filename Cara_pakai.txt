@@ -1,0 +1,6 @@
+Cara menggunakan : 
+-copas semua file ke satu folder
+-lalu buka vsc (Virtual Studio Code)
+-masukkan kode bot discord di bagian bawah
+-lalu jalankan file phyton 
+-masuk ke discord ketik "$predict"dan tambahkan attachment gambar yang ingin dideteksi
